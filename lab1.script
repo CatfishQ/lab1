@@ -1,0 +1,25 @@
+Script started on 2017年03月18日 (週六) 20時43分12秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami:[K; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.email=cyk840127@gmail.com
+user.name=CatfishQ
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https;[K://github.com/CatfishQ/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m las[K[Ks
+[0m[01;32mA.cpp[0m                                           [01;32mHelloWorld[0m      [01;34mPublic[0m
+[01;34mbuild-example-Desktop_Qt_5_7_0_GCC_64bit-Debug[0m  HelloWorld.cpp  [01;34mQt5.7.0[0m
+[01;34mDesktop[0m                                         [01;34mlab1[0m            [01;34mTemplates[0m
+[01;34mDocuments[0m                                       lab1.script     test.cpp
+[01;34mDownloads[0m                                       [01;34mMusic[0m           [01;34mVideos[0m
+[01;34mexample[0m                                         [01;34mPictures[0m
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m cd lab1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m ls
+README.md
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m 
+Script done on 2017年03月18日 (週六) 20時46分31秒
